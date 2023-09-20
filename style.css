@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(1, 118, 1, 0.1);
+}
+.tamanho {
+    width: 80%;
+}
+.margemesquerda {
+    margin-left: 15px;
+}
+.verde {
+    color: green;
+} 
+.fundoverde {
+    background-color: rgb(87, 125, 87);
+}
